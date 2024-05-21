@@ -22,10 +22,10 @@ This is a clone of the classic Flappy Bird game, created using Unity. The goal o
 ## Screenshots
 
 ### Gameplay
-![Gameplay](FlappyBirdGame/screenshots/game-play.png)
+![Gameplay](screenshots/game-play.png)
 
 ### Game Over
-![Game Over](FlappyBirdGame/screenshots/game-over.png)
+![Game Over](screenshots/game-over.png)
 
 ## Installation
 
